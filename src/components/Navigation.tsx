@@ -15,10 +15,6 @@ function Navigation() {
           href="https://www.linkedin.com/in/brandonpessman/"
         >
           linkedin
-        </a>{" "}
-        |{" "}
-        <a className="a-secondary" href="https://x.com/brandonpessman">
-          twitter
         </a>
       </div>
     </>
